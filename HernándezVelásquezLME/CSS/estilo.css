@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+}
+.menu{
+    background-color: rgb(37, 37, 37);
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+.ultimas{
+    float: left;
+}
+h3{
+    color: white;
+    background-color: rgb(37, 37, 37);
+    margin-right: 70%;
+}
+.ultimaimg{
+    width: 20%;
+    height: 10%;
+}
+.noticia{
+    float: right;
+}
+footer{
+    float: right;
+}
